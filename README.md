@@ -1,6 +1,6 @@
-Hi there👋 I'm Junior software developer.:rocket:  
-I really enjoy learning languages and frameworks like Spring.:octocat:  
-I also enjoy ui, ux and design.:snowman:     
+Hi there👋 I'm Junior software developer. :rocket:  
+I really enjoy learning languages and frameworks like Spring. :octocat:  
+I also enjoy ui, ux and design. :snowman:     
 
 Shoot for the stars :sparkles:
 
