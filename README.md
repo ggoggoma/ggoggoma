@@ -1,4 +1,7 @@
-[![Gmail](https://img.shields.io/badge/-EA4335?style=flat-square&logo=Gmail&logoColor=white)](github.com/ggoggoma)  
+[![Blog](https://img.shields.io/badge/Blog-F8DC75?style=flat-square&logo=&logoColor=white)](https://ggoggossi.tistory.com/)
+[![Gmail](https://img.shields.io/badge/ggoggoma.tech@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](github.com/ggoggoma)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]()  
+
 Hi there👋 I'm Junior software developer. :rocket:  
 I really enjoy learning languages and frameworks like Spring. :octocat:  
 I also enjoy ui, ux and design. :snowman:     
