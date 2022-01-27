@@ -1,8 +1,12 @@
+[![Gmail](https://img.shields.io/badge/-EA4335?style=flat-square&logo=Gmail&logoColor=white)](github.com/ggoggoma)  
 Hi there👋 I'm Junior software developer. :rocket:  
 I really enjoy learning languages and frameworks like Spring. :octocat:  
 I also enjoy ui, ux and design. :snowman:     
 
 Shoot for the stars :sparkles:
+<br/><br/>
+
+
 
 ### :whale: Technology Stack :whale:
 
