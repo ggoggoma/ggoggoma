@@ -25,7 +25,7 @@ Shoot for the stars :sparkles:
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](github.com/ggoggoma)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](github.com/ggoggoma) 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=semonemo">
 
 [![Solved.ac ggoggoma](http://mazassumnida.wtf/api/v2/generate_badge?boj=semonemo)](https://solved.ac/semonemo)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggoggoma&show_icons=true&locale=en&layout=compact" alt="ggoggoma" /></p>
