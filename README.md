@@ -27,4 +27,3 @@ Shoot for the stars :sparkles:
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggoggoma&show_icons=true&locale=en&layout=compact" alt="ggoggoma" /></p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=semonemo)](https://solved.ac/semonemo)
