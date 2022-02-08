@@ -26,4 +26,4 @@ Shoot for the stars :sparkles:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](github.com/ggoggoma) 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<ggoggoma>&show_icons=true&locale=en&layout=compact" alt="<ggoggoma>" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggoggoma&show_icons=true&locale=en&layout=compact" alt="ggoggoma" /></p>
